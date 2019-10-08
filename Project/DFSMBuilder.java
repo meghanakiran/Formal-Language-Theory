@@ -1,9 +1,5 @@
  
 
-//	NAME: MEGHANA KIRAN 
-//COURSE :CS5313 FORMAL LANGUAGE THEORY 
-
-// ASSIGNMENT 1 
 //PROGRAM 2: DFSMBuilder - TO BUILD A TRANSITION TABLE ON THE INPUT PROVIDED 
 //INPUT: FILE NAME (PATH) and  PATTERN 
 //OUTPUT: transition table on the file (the file that was  specified)
