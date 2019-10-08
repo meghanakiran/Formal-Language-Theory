@@ -1,6 +1,6 @@
-TO READ A TRANSITION TABLE TO 2D ARRAY
+//TO READ A TRANSITION TABLE TO 2D ARRAY
 
-package fltprogrammingassignment1;
+
 
 import java.io.File;
 import java.util.Scanner;
