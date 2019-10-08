@@ -1,10 +1,5 @@
 
-//NAME : MEGHANA KIRAN
-//COURSE :CS5313 FORMAL LANGUAGE THEORY 
 
-
-//ASSIGNMENT 1
-//PROGRAM 1 
 //TO SIMULATION OF DFSM 
 /*INPUT: FILE NAME (PATH ) THAT CONTAINS A TRANSITION TABLE 
          and a STRING 
@@ -130,7 +125,7 @@ public class SimDFSM
 			}
 			if(searchCharacter==data[line1-1][0])
 			{
-				statusOnParsing="ÿes";
+				statusOnParsing="Ã¿es";
 			}
 			else
 			{ 
